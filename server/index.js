@@ -9,10 +9,11 @@ const app = express();
 
 // Middleware
 const allowedOrigins = [
-  'http://localhost:3000',           // Local frontend
-  'http://localhost:5001',           // Local backend
-  process.env.CLIENT_URL,            // Production frontend (Vercel)
-  process.env.BACKEND_URL            // Production backend (Render)
+  'http://localhost:3000',                          // Local frontend
+  'http://localhost:5001',                          // Local backend
+  'https://waste-map-final-project.vercel.app',    // Production frontend (Vercel)
+  process.env.CLIENT_URL,                           // Additional frontend URL from env
+  process.env.BACKEND_URL                           // Production backend (Render)
 ].filter(Boolean); // Remove undefined values
 
 app.use(cors({
