@@ -8,6 +8,11 @@ A full-stack web application for efficient waste collection and management, conn
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## 📊 Project Resources
+
+- **📽️ [Project Pitch Deck](https://www.canva.com/design/DAG5KA4xPjs/MYtu6v147h_w4bcb1h2YQg/edit?utm_content=DAG5KA4xPjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)** - View the complete project presentation
+- **💻 [GitHub Repository](https://github.com/Princessglory/WastemMap-Final-Project-)** - Source code and documentation
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
